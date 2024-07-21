@@ -1,8 +1,10 @@
 # knowledge
 
 
-
+下载原码
+```git
 git clone https://github.com/kmjade/knowledge.git
+```
 
 …or create a new repository on the command line
 ```git
