@@ -9,3 +9,6 @@ linter-yaml-title:
 date created: 
 date modified:
 ---
+# <% tp.file.title %>
+---
+
