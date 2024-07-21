@@ -11,8 +11,12 @@
             "id": "150c34c6f9fce323",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3 resources/30 template/Note-Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 resources/30 template/Note-Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3 resources/30 template/Note-Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,8 +147,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d287b413a86c34b",
+  "active": "150c34c6f9fce323",
   "lastOpenFiles": [
+    "Untitled.md",
     "3 resources/30 template/Note-Template.md",
     "欢迎.md",
     "3 resources/30 template",
