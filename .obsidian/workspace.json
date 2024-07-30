@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "4 Archives/4 Archives.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "4 Archives/4 Archives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "4 Archives/4 Archives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "4 Archives/4 Archives.md"
               }
             }
+          },
+          {
+            "id": "5402d45065e648fa",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -143,9 +152,26 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "copilot:Copilot Chat": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "80de3d556b95a605",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "3 Resources/3 Resources.md",
+    "4 Archives/4 Archives.md",
+    "2 Areas/2 Areas.md",
+    "1 Projects/1 Projects.md",
+    "Element Structure and Formats.md",
+    "4 Archives/2024/7/README.md",
+    "4 Archives/2024/7/Element Structure and Formats.md",
+    "4 Archives/2024/7",
+    "4 Archives/2024",
+    "4 Archives",
+    "README.md",
+    "3 Resources",
+    "2 Areas",
+    "1 Projects"
+  ]
 }
