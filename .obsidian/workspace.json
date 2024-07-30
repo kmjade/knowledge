@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_meta_/templates/Template Basc.md",
+                "file": "1 Projects/1 Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_meta_/templates/Template Basc.md",
+                "file": "1 Projects/1 Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_meta_/templates/Template Basc.md",
+                "file": "1 Projects/1 Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_meta_/templates/Template Basc.md"
+                "file": "1 Projects/1 Projects.md"
               }
             }
           },
@@ -159,18 +159,20 @@
   },
   "active": "80de3d556b95a605",
   "lastOpenFiles": [
-    "未命名.md",
-    "_meta_/templates/Template Basc.md",
+    "2 Areas/2 Areas.md",
+    "3 Resources/3 Resources.md",
+    "4 Archives/4 Archives.md",
     "1 Projects/1 Projects.md",
+    "4 Archives/Obsidian-PARA Archive/添加父笔记.md",
+    "4 Archives/Obsidian-PARA Archive/已完成 PARA 实施.md",
+    "_meta_/templates/Template Basc.md",
+    "未命名.md",
     "_meta_/templates",
     "4 Archives/Obsidian-PARA Archive/3 资源和参考文献/6.1 Obsidian 与 PARA 框架集成的集成想法.md",
     "4 Archives/Obsidian-PARA Archive/4 进度更新/小结-Obsidian-PARA-2024-07-25.md",
     "4 Archives/Obsidian-PARA Archive/TOC/TOC.md",
-    "4 Archives/Obsidian-PARA Archive/已完成 PARA 实施.md",
-    "4 Archives/Obsidian-PARA Archive/添加父笔记.md",
     "4 Archives/Obsidian-PARA Archive/PARA-Prompt.md",
     "_meta_",
-    "4 Archives/4 Archives.md",
     "4 Archives/Obsidian-PARA Archive/TOC",
     "4 Archives/Obsidian-PARA Archive/5 会议记录/Chat-2024_07_26-01_25_22.md",
     "4 Archives/Obsidian-PARA Archive/5 会议记录/Chat-2024_07_25-23_37_20.md",
@@ -188,8 +190,6 @@
     "4 Archives/Obsidian-PARA Archive/3 资源和参考文献/PARMA/如何提高生产力？.md",
     "4 Archives/Obsidian-PARA Archive/3 资源和参考文献/PARMA/使用 PAR A 模板创建一个笔记.md",
     "4 Archives/Obsidian-PARA Archive/3 资源和参考文献/PARMA/PARMA 框架-自定义模板-项目计划.md",
-    "4 Archives/Obsidian-PARA Archive/3 资源和参考文献/PARMA/8-1 PARMA 文档属性.md",
-    "4 Archives/Obsidian-PARA Archive/3 资源和参考文献/PARMA/6.2 创建一个一致和有组织的系统来记录笔记和计划工作在 Obsidian 中.md",
     "4 Archives/Obsidian-PARA Archive/3 资源和参考文献/PARMA",
     "4 Archives/Obsidian-PARA Archive/3 资源和参考文献/4 Archive/40 Templates/Note",
     "4 Archives/Obsidian-PARA Archive/3 资源和参考文献/4 Archive/40 Templates/401 Daily",
