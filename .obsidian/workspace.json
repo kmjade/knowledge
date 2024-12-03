@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/2 Areas.md",
+                "file": "_templates/🌳 Area Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Areas"
+              "title": "🌳 Area Template"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Areas/2 Areas.md",
+                "file": "_templates/🌳 Area Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2 Areas 的反向連結"
+              "title": "🌳 Area Template 的反向連結"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Areas/2 Areas.md",
+                "file": "_templates/🌳 Area Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2 Areas 的對外連結"
+              "title": "🌳 Area Template 的對外連結"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/2 Areas.md"
+                "file": "_templates/🌳 Area Template.md"
               },
               "icon": "lucide-list",
-              "title": "2 Areas 的大綱"
+              "title": "🌳 Area Template 的大綱"
             }
           },
           {
@@ -192,8 +192,8 @@
   },
   "active": "ccdd22fe4331e9fc",
   "lastOpenFiles": [
-    "4 Archives/Automating-PARA-in-Obsidian/2 Areas 1/2 Areas 1.md",
     "2 Areas/2 Areas.md",
+    "4 Archives/Automating-PARA-in-Obsidian/2 Areas 1/2 Areas 1.md",
     "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
     "_templates/_templates.md",
     "_meta_/_meta_.md",
