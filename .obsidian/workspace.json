@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/Templates.md",
+                "file": "_templates/_templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Templates"
+              "title": "_templates"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/Templates.md",
+                "file": "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Templates"
+              "title": "Templates & Automations"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/Templates.md",
+                "file": "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Templates 的反向連結"
+              "title": "Templates & Automations 的反向連結"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/Templates.md",
+                "file": "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Templates 的對外連結"
+              "title": "Templates & Automations 的對外連結"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/Templates.md"
+                "file": "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md"
               },
               "icon": "lucide-list",
-              "title": "Templates 的大綱"
+              "title": "Templates & Automations 的大綱"
             }
           },
           {
@@ -192,9 +192,9 @@
   },
   "active": "ccdd22fe4331e9fc",
   "lastOpenFiles": [
+    "_templates/_templates.md",
     "_meta_/_meta_.md",
     "_meta_/未命名.md",
-    "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/Templates.md",
     "4 Archives/Automating-PARA-in-Obsidian/1 Projects/1 Projects.md",
     "4 Archives/4 Archives.md",
     "4 Archives/Automating-PARA-in-Obsidian/1 Projects/Get a Driver Licence/Get a Driver Licence.md",
@@ -217,12 +217,12 @@
     "_meta_/scripts/getAreaList.js",
     "_meta_/scripts",
     "4 Archives/Automating-PARA-in-Obsidian/README.md",
-    "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/🗂️ Resource Template.md",
-    "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/🎯 Project Note Template.md",
-    "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/🎯 Project Template.md",
-    "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/🗂️ Resource Note Template.md",
-    "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/🌳 Area Template.md",
-    "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/🌳 Area Note Template.md",
+    "_templates/🗂️ Resource Template.md",
+    "_templates/🎯 Project Note Template.md",
+    "_templates/🎯 Project Template.md",
+    "_templates/🗂️ Resource Note Template.md",
+    "_templates/🌳 Area Template.md",
+    "_templates/🌳 Area Note Template.md",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Turn on community plugins.png",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Project Example 1.png",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Project Example 2.png",
