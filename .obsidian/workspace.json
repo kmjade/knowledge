@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0 Personals/Element Structure and Formats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Element Structure and Formats"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "0 Personals/Element Structure and Formats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向連結"
+              "title": "Element Structure and Formats 的反向連結"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "0 Personals/Element Structure and Formats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的對外連結"
+              "title": "Element Structure and Formats 的對外連結"
             }
           },
           {
@@ -139,14 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "0 Personals/Element Structure and Formats.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大綱"
+              "title": "Element Structure and Formats 的大綱"
             }
           },
           {
-            "id": "a602709a4ecb7045",
+            "id": "18228fea537537ac",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -171,9 +171,21 @@
       "daily-notes:開啟今天的每日筆記": false,
       "command-palette:開啟命令面板": false,
       "templates:插入模板": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "80de3d556b95a605",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_meta_/dataview/toc.js",
+    "_meta_/dataview/recent-news.js",
+    "_meta_/dataview",
+    "_meta_/_meta_.md",
+    "0 Personals/Element Structure and Formats.md",
+    "0 Personals/0 Personals.md",
+    "_meta_/javascript",
+    "_meta_",
+    "README.md",
+    "0 Personals"
+  ]
 }
