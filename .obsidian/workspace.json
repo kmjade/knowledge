@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "21c7a3e9df5b911d",
+    "id": "1be3c5bb7a9d630b",
     "type": "split",
     "children": [
       {
-        "id": "344b12150e48c653",
+        "id": "efcdc47d0d5d32c5",
         "type": "tabs",
         "children": [
           {
-            "id": "55abd29bd5127239",
+            "id": "80de3d556b95a605",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0 Personals/Element Structure and Formats.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "Element Structure and Formats"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "809d34c91b118570",
+    "id": "af514e6e38302fca",
     "type": "split",
     "children": [
       {
-        "id": "7892fe70ae2f509f",
+        "id": "6fdf45c1815606b6",
         "type": "tabs",
         "children": [
           {
-            "id": "124262e29f322178",
+            "id": "3061921cfa0582ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +47,7 @@
             }
           },
           {
-            "id": "1256403fd751b2e9",
+            "id": "0c165f0d7718c47d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +64,7 @@
             }
           },
           {
-            "id": "255a08d8a67b780c",
+            "id": "18006e2857e8904a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,19 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "35662205ec5918f5",
+    "id": "00b1ea230b7c355a",
     "type": "split",
     "children": [
       {
-        "id": "aa7a9d11d6ddd6fc",
+        "id": "51025fc84c716a0f",
         "type": "tabs",
         "children": [
           {
-            "id": "3edebc5b8ea2a1cd",
+            "id": "ae2f4d7fefbddfce",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0 Personals/Element Structure and Formats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,24 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向連結"
+              "title": "Element Structure and Formats 的反向連結"
             }
           },
           {
-            "id": "91fdf0dc834f8fea",
+            "id": "fe4c067d2abbddfc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0 Personals/Element Structure and Formats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "對外連結"
+              "title": "Element Structure and Formats 的對外連結"
             }
           },
           {
-            "id": "02a75c3262beb3ca",
+            "id": "ae27e75e39987561",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,16 +134,29 @@
             }
           },
           {
-            "id": "2bad916131c72637",
+            "id": "0645b84a3544770c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "0 Personals/Element Structure and Formats.md"
+              },
               "icon": "lucide-list",
-              "title": "大綱"
+              "title": "Element Structure and Formats 的大綱"
+            }
+          },
+          {
+            "id": "18228fea537537ac",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -150,10 +169,23 @@
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
+      "command-palette:開啟命令面板": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "copilot:Copilot Chat": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "55abd29bd5127239",
-  "lastOpenFiles": []
+  "active": "80de3d556b95a605",
+  "lastOpenFiles": [
+    "_meta_/_meta_.md",
+    "0 Personals/Element Structure and Formats.md",
+    "_meta_/dataview/recent-news.js",
+    "0 Personals/0 Personals.md",
+    "_meta_/dataview/toc.js",
+    "_meta_/dataview",
+    "_meta_/javascript",
+    "_meta_",
+    "README.md",
+    "0 Personals"
+  ]
 }
