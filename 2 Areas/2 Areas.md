@@ -1,12 +1,10 @@
 ---
-tags: 
 pare: area
 ---
 
 > [!NOTE] 
 > 长期责任或承诺，用于存储你关心的领域或主题，例如学习、工作、和生活。
 ## No. of Areas [[领域]] 🧠
-
 ```dataview
 list without id length(rows.file.name)
 from "2 Areas"

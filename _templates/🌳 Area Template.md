@@ -1,7 +1,9 @@
 ---
 para: area
+sub_pare: <% tp.file.title %>
 ---
 # {{VALUE:🌳 Add Area}}
+
 ```dataview
 Table without id (subtopic + " (" + length(rows.file.link) + ")") as "Subtopic", sort(rows.file.link) as File
 WHERE contains(file.path, this.file.folder) AND file.name != this.file.name

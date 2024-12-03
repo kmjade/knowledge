@@ -4,39 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "606c5ad541ec94cf",
+        "id": "3bcc79ccabbd8b85",
         "type": "tabs",
         "children": [
           {
-            "id": "a07b87447fce3ba7",
+            "id": "3cdca83682bb05c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/_templates.md",
+                "file": "2 Areas/Finance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_templates"
-            }
-          },
-          {
-            "id": "ccdd22fe4331e9fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/🌳 Area Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🌳 Area Template"
+              "title": "Finance"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "10d696b4093d8398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ec3dfc379b59f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Templates & Automations"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/🌳 Area Template.md",
+                "file": "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "🌳 Area Template 的反向連結"
+              "title": "Templates & Automations 的反向連結"
             }
           },
           {
@@ -127,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/🌳 Area Template.md",
+                "file": "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "🌳 Area Template 的對外連結"
+              "title": "Templates & Automations 的對外連結"
             }
           },
           {
@@ -154,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/🌳 Area Template.md"
+                "file": "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md"
               },
               "icon": "lucide-list",
-              "title": "🌳 Area Template 的大綱"
+              "title": "Templates & Automations 的大綱"
             }
           },
           {
@@ -190,12 +195,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ccdd22fe4331e9fc",
+  "active": "9ec3dfc379b59f06",
   "lastOpenFiles": [
+    "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/0 Start Here.md",
+    "4 Archives/Automating-PARA-in-Obsidian/2 Areas 1/Finance/Expenses Note.md",
+    "_templates/🌳 Area Note Template.md",
+    "_templates/🌳 Area Template.md",
+    "2 Areas/Finance.md",
+    "2 Areas/Personal Development.md",
+    "4 Archives/Automating-PARA-in-Obsidian/2 Areas 1/Personal Development/Personal Development.md",
     "2 Areas/2 Areas.md",
+    "2 Areas/未命名",
+    "_templates/_templates.md",
+    "4 Archives/Automating-PARA-in-Obsidian/2 Areas 1/Finance/Finance.md",
+    "4 Archives/Automating-PARA-in-Obsidian/2 Areas 1/Finance/Savings Note 2.md",
+    "4 Archives/Automating-PARA-in-Obsidian/2 Areas 1/Finance/Savings Note 1.md",
     "4 Archives/Automating-PARA-in-Obsidian/2 Areas 1/2 Areas 1.md",
     "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
-    "_templates/_templates.md",
     "_meta_/_meta_.md",
     "_meta_/未命名.md",
     "4 Archives/Automating-PARA-in-Obsidian/1 Projects/1 Projects.md",
@@ -207,7 +223,6 @@
     "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/PARA.md",
     "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Setups.md",
     "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Manual.md",
-    "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/0 Start Here.md",
     "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/File Structure.md",
     "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Assign Hotkeys.md",
     "4 Archives/Automating-PARA-in-Obsidian/0 Start Here",
@@ -217,14 +232,7 @@
     "_meta_/scripts/getProjectList.js",
     "_meta_/scripts/getAreaListValue.js",
     "_meta_/scripts/getAreaList.js",
-    "_meta_/scripts",
     "4 Archives/Automating-PARA-in-Obsidian/README.md",
-    "_templates/🗂️ Resource Template.md",
-    "_templates/🎯 Project Note Template.md",
-    "_templates/🎯 Project Template.md",
-    "_templates/🗂️ Resource Note Template.md",
-    "_templates/🌳 Area Template.md",
-    "_templates/🌳 Area Note Template.md",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Turn on community plugins.png",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Project Example 1.png",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Project Example 2.png",
@@ -234,9 +242,6 @@
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Example - Select Area for Project.png",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Example - Input Project Name.png",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Example - Input Project Note Name.png",
-    "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Example - Input Area Note Name.png",
-    "4 Archives/Automating-PARA-in-Obsidian/3 Resources/Technical Analysis/Technical Analysis.md",
-    "4 Archives/Automating-PARA-in-Obsidian/3 Resources/Technical Analysis/MA.md",
-    "4 Archives/Automating-PARA-in-Obsidian/3 Resources/Technical Analysis/BOLL.md"
+    "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Example - Input Area Note Name.png"
   ]
 }
