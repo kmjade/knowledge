@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/PARA/🗂️ Resource Note Template.md",
+                "file": "3 Resources/test/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗂️ Resource Note Template"
+              "title": "test"
             }
           }
         ],
@@ -214,6 +214,12 @@
   },
   "active": "ccdd22fe4331e9fc",
   "lastOpenFiles": [
+    "3 Resources/test/rrr.md",
+    "_templates/PARA/🗂️ Resource Note Template.md",
+    "3 Resources/test",
+    "3 Resources/test/test.md",
+    "3 Resources/null",
+    "3 Resources/null/test.md",
     "_templates/PARA/🎯 Project Note Template.md",
     "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Manual.md",
     "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
@@ -237,10 +243,6 @@
     "_templates/PARA/🌳 Area Note Template.md.md",
     "_templates/🌳 Area Template.md",
     "_templates/🌳 Area Note Template.md",
-    "2 Areas/Finance/qqq.md",
-    "2 Areas/Finance/111.md",
-    "2 Areas/Personal Development/Personal Development.md",
-    "_templates/PARA/🌳 Area Template.md",
     "_templates/PARA",
     "4 Archives/Automating-PARA-in-Obsidian/1 Projects/Get a Driver Licence",
     "4 Archives/Automating-PARA-in-Obsidian/1 Projects",
@@ -248,8 +250,6 @@
     "_meta_/scripts/getResourceListValue.js",
     "_meta_/scripts/getResourceList.js",
     "_meta_/scripts/getProjectListValue.js",
-    "_meta_/scripts/getProjectList.js",
-    "_meta_/scripts/getAreaListValue.js",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Turn on community plugins.png",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Project Example 1.png",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Project Example 2.png",
