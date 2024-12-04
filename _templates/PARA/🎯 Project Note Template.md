@@ -19,4 +19,3 @@ domain:
 <% formatted_areas %>
 ---
 # <% tp.file.title %>
-<% tp.file.cursor() %>

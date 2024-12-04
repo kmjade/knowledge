@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Projects/Adopt a Cat/Adopt a Cat.md",
+                "file": "_templates/PARA/🎯 Project Note Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adopt a Cat"
+              "title": "🎯 Project Note Template"
             }
           }
         ],
@@ -214,17 +214,20 @@
   },
   "active": "8e62e375ecda977d",
   "lastOpenFiles": [
-    "_templates/PARA/🎯 Project Template.md",
-    "1 Projects/Adopt a Cat/Adopt a Cat.md",
-    "1 Projects/1 Projects.md",
+    "1 Projects/Adopt a Cat/Animal Shelters.md",
+    "_templates/PARA/🎯 Project Note Template.md",
     "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
+    "1 Projects/Adopt a Cat/Adopt a Cat.md",
+    "1 Projects/Adopt a Cat/test.md",
+    "1 Projects/Adopt a Cat/🎯 Add Project Note.md",
+    "_templates/PARA/🎯 Project Template.md",
+    "1 Projects/1 Projects.md",
     "2 Areas/2 Areas.md",
     "1 Projects/Adopt a Cat",
     "1 Projects/🎯 Add Project Note.md",
     "1 Projects/qq.md",
     "qq.md",
     "_templates/PARA/🌳 Area Note Template.md.md",
-    "test.md",
     "_templates/🌳 Area Template.md",
     "_templates/🌳 Area Note Template.md",
     "2 Areas/Finance/qqq.md",
@@ -238,9 +241,6 @@
     "2 Areas/1.md",
     "2 Areas/Pet/qqq.md",
     "2 Areas/111.md",
-    "2 Areas/222.md",
-    "_templates/PARA/111.md",
-    "2 Areas/🌳 Add Area.md",
     "_templates/PARA",
     "4 Archives/Automating-PARA-in-Obsidian/1 Projects/Get a Driver Licence",
     "4 Archives/Automating-PARA-in-Obsidian/1 Projects",
