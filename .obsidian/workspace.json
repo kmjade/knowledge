@@ -6,6 +6,7 @@
       {
         "id": "606c5ad541ec94cf",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "a07b87447fce3ba7",
@@ -27,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/PARA/🌳 Area Note Template.md.md",
+                "file": "1 Projects/Adopt a Cat/Adopt a Cat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌳 Area Note Template.md"
+              "title": "Adopt a Cat"
             }
           }
         ],
@@ -41,6 +42,7 @@
       {
         "id": "425a5ffb675ac700",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "8e62e375ecda977d",
@@ -48,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
+                "file": "_templates/PARA/🎯 Project Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Templates & Automations"
+              "title": "🎯 Project Template"
             }
           }
         ]
@@ -212,15 +214,23 @@
   },
   "active": "8e62e375ecda977d",
   "lastOpenFiles": [
+    "1 Projects/Adopt a Cat/Adopt a Cat.md",
+    "1 Projects/1 Projects.md",
+    "_templates/PARA/🎯 Project Template.md",
+    "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
+    "2 Areas/2 Areas.md",
+    "1 Projects/Adopt a Cat",
+    "1 Projects/🎯 Add Project Note.md",
+    "1 Projects/qq.md",
+    "qq.md",
     "_templates/PARA/🌳 Area Note Template.md.md",
+    "test.md",
     "_templates/🌳 Area Template.md",
     "_templates/🌳 Area Note Template.md",
     "2 Areas/Finance/qqq.md",
     "2 Areas/Finance/111.md",
     "2 Areas/Personal Development/Personal Development.md",
-    "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
     "_templates/PARA/🌳 Area Template.md",
-    "2 Areas/2 Areas.md",
     "2 Areas/Finance/Finance.md",
     "2 Areas/Pet/Pet.md",
     "2 Areas/Pet/Pet-Note.md",
@@ -232,13 +242,6 @@
     "_templates/PARA/111.md",
     "2 Areas/🌳 Add Area.md",
     "_templates/PARA",
-    "1 Projects/1 Projects.md",
-    "3 Resources/3 Resources.md",
-    "_templates/_templates.md",
-    "4 Archives/4 Archives.md",
-    "Expenses Note.md",
-    "_meta_/_meta_.md",
-    "_meta_/未命名.md",
     "4 Archives/Automating-PARA-in-Obsidian/1 Projects/Get a Driver Licence",
     "4 Archives/Automating-PARA-in-Obsidian/1 Projects",
     "4 Archives/Automating-PARA-in-Obsidian/0 Start Here",
@@ -247,7 +250,6 @@
     "_meta_/scripts/getProjectListValue.js",
     "_meta_/scripts/getProjectList.js",
     "_meta_/scripts/getAreaListValue.js",
-    "_meta_/scripts/getAreaList.js",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Turn on community plugins.png",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Project Example 1.png",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Project Example 2.png",
