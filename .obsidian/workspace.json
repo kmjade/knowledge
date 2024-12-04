@@ -4,41 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "c319fedb61aa7330",
+        "id": "606c5ad541ec94cf",
         "type": "tabs",
         "children": [
           {
-            "id": "2f08fa0e08b6475a",
+            "id": "a07b87447fce3ba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/🌳 Area Note Template.md",
+                "file": "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌳 Area Note Template"
+              "title": "Templates"
+            }
+          },
+          {
+            "id": "ccdd22fe4331e9fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Personal Development/Personal Development.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Development"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "bce4992a7c13d562",
+        "id": "425a5ffb675ac700",
         "type": "tabs",
         "children": [
           {
-            "id": "058d64aa6c2157da",
+            "id": "8e62e375ecda977d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/🌳 Area Template.md",
+                "file": "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌳 Area Template"
+              "title": "Templates & Automations"
             }
           }
         ]
@@ -97,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 245.5
   },
   "right": {
     "id": "00b1ea230b7c355a",
@@ -113,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/🌳 Area Template.md",
+                "file": "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "🌳 Area Template 的反向連結"
+              "title": "Templates 的反向連結"
             }
           },
           {
@@ -132,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/🌳 Area Template.md",
+                "file": "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "🌳 Area Template 的對外連結"
+              "title": "Templates 的對外連結"
             }
           },
           {
@@ -159,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/🌳 Area Template.md"
+                "file": "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/Templates.md"
               },
               "icon": "lucide-list",
-              "title": "🌳 Area Template 的大綱"
+              "title": "Templates 的大綱"
             }
           },
           {
@@ -195,43 +210,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "058d64aa6c2157da",
+  "active": "8e62e375ecda977d",
   "lastOpenFiles": [
-    "2 Areas/Pet/Pet-Note.md",
-    "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
-    "2 Areas/null",
-    "_templates/🌳 Area Note Template.md",
-    "2 Areas/Pet/pet.md",
-    "2 Areas/Pet/Pet 1.md",
-    "2 Areas/Pet",
-    "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/PARA.md",
-    "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Manual.md",
-    "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/File Structure.md",
-    "Expenses Note.md",
-    "2 Areas/null/111.md",
-    "2 Areas/null/111.md",
-    "2 Areas/null/finance.md",
-    "2 Areas/null/test.md",
-    "2 Areas/null/test.md",
+    "2 Areas/Personal Development/Personal Development.md",
+    "_templates/PARA/🌳 Area Template.md",
     "_templates/🌳 Area Template.md",
-    "2 Areas/Personal Development/Expenses Note.md",
-    "2 Areas/Personal Development.md",
-    "2 Areas/Personal Development",
-    "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Assign Hotkeys.md",
-    "2 Areas/test.md",
-    "2 Areas/Finance.md",
-    "2 Areas/Finance/test1.md",
-    "2 Areas/Finance",
+    "_templates/🌳 Area Note Template.md",
     "2 Areas/2 Areas.md",
-    "2 Areas/Expenses Note.md",
+    "2 Areas/Finance/Finance.md",
+    "2 Areas/Pet/Pet.md",
+    "2 Areas/Pet/Pet-Note.md",
+    "2 Areas/qqq.md",
+    "2 Areas/1.md",
+    "2 Areas/Pet/qqq.md",
+    "2 Areas/111.md",
+    "2 Areas/222.md",
+    "_templates/PARA/111.md",
+    "2 Areas/🌳 Add Area.md",
+    "4 Archives/Automating-PARA-in-Obsidian/0 Start Here/Templates & Automations.md",
+    "_templates/PARA/🌳 Area Note Template.md.md",
+    "_templates/PARA",
+    "1 Projects/1 Projects.md",
+    "3 Resources/3 Resources.md",
+    "_templates/_templates.md",
     "4 Archives/4 Archives.md",
-    "Expenses Note1.md",
-    "2 Areas/未命名",
+    "Expenses Note.md",
+    "_meta_/_meta_.md",
+    "_meta_/未命名.md",
+    "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Templates/Templates.md",
+    "4 Archives/Automating-PARA-in-Obsidian/1 Projects/1 Projects.md",
     "4 Archives/Automating-PARA-in-Obsidian/1 Projects/Get a Driver Licence",
     "4 Archives/Automating-PARA-in-Obsidian/1 Projects",
     "4 Archives/Automating-PARA-in-Obsidian/0 Start Here",
     "_meta_/scripts/getResourceListValue.js",
     "_meta_/scripts/getResourceList.js",
+    "_meta_/scripts/getProjectListValue.js",
+    "_meta_/scripts/getProjectList.js",
+    "_meta_/scripts/getAreaListValue.js",
+    "_meta_/scripts/getAreaList.js",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Turn on community plugins.png",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Project Example 1.png",
     "4 Archives/Automating-PARA-in-Obsidian/4 Archives/Attachments/Project Example 2.png",
